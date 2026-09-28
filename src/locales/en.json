@@ -7,9 +7,15 @@
     "legalNotice": "Unofficial fan wiki. Not affiliated with Zombie Car Crusher or Roblox."
   },
   "nav": {
-    "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "codes": "Codes",
+    "guide": "Guide",
+    "builds": "Builds",
+    "equipment": "Equipment",
+    "progression": "Progression",
+    "events": "Events",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -369,7 +375,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "codes": {
+    "overviewTitle": "Build and Kill Zombies Codes",
+    "overviewDescription": "Every working Build and Kill Zombies code in one place, with the Cash, Tokens and Parts each one gives and step-by-step instructions for redeeming them in the Roblox game."
+  },
+  "guide": {
+    "overviewTitle": "Build and Kill Zombies Beginner Guides",
+    "overviewDescription": "Start strong in Build and Kill Zombies with beginner guides covering controls, the building workshop and the first upgrades that carry your vehicle through the zombie horde."
+  },
+  "builds": {
+    "overviewTitle": "Build and Kill Zombies Car Builds",
+    "overviewDescription": "Proven Build and Kill Zombies vehicle builds, from cheap starter cars to monster trucks and tanks, with the parts, layouts and upgrades that push every run further."
+  },
+  "equipment": {
+    "overviewTitle": "Build and Kill Zombies Weapons and Blocks",
+    "overviewDescription": "Compare Build and Kill Zombies weapons, turrets and building blocks with turret tier rankings, mounted gun DPS, minigun loadouts and weapon upgrade paths."
+  },
+  "progression": {
+    "overviewTitle": "Build and Kill Zombies Progression Guides",
+    "overviewDescription": "Earn Cash and Tokens faster, travel farther on every run and make the most of server luck with Build and Kill Zombies progression guides built around distance farming."
+  },
+  "events": {
+    "overviewTitle": "Build and Kill Zombies Events and Updates",
+    "overviewDescription": "Keep up with Build and Kill Zombies updates and limited-time events, including the Zeus boss event, its rewards and the changes in the latest update."
+  },
+  "community": {
+    "overviewTitle": "Build and Kill Zombies Community",
+    "overviewDescription": "Join the Build and Kill Zombies community on Discord, Reddit and the Roblox group, and learn how liking the game and joining the group unlock free chest rewards."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

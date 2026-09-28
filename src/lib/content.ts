@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
   codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  builds: "Car Builds",
+  equipment: "Weapons & Blocks",
+  progression: "Progression",
+  events: "Events",
+  community: "Community",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+// 巴西葡萄牙语分组标题映射
+const GROUP_TITLES_PT_BR: Record<string, string> = {
+  codes: "Códigos",
+  guide: "Primeiros Passos",
+  builds: "Builds de Carros",
+  equipment: "Armas e Blocos",
+  progression: "Progressão",
+  events: "Eventos",
+  community: "Comunidade",
+};
+
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  codes: "Códigos",
+  guide: "Primeros Pasos",
+  builds: "Builds de Coches",
+  equipment: "Armas y Bloques",
+  progression: "Progresión",
+  events: "Eventos",
+  community: "Comunidad",
+};
+
+// 印尼语分组标题映射
+const GROUP_TITLES_ID: Record<string, string> = {
+  codes: "Kode",
+  guide: "Panduan Awal",
+  builds: "Build Mobil",
+  equipment: "Senjata & Blok",
+  progression: "Progresi",
+  events: "Event",
+  community: "Komunitas",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  "pt-br": GROUP_TITLES_PT_BR,
+  es: GROUP_TITLES_ES,
+  id: GROUP_TITLES_ID,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  "pt-br": "Visão Geral",
+  es: "Resumen",
+  id: "Ringkasan",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "codes", "guide", "builds", "equipment", "progression", "events", "community",
 ];
 
 /**

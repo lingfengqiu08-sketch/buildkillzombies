@@ -19,8 +19,8 @@ export async function SiteHeader({ locale }: { locale: string }) {
   const header = (
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
-        <span className="grid h-9 w-9 place-items-center rounded-xl border border-border bg-muted text-sm font-black text-foreground">VV</span>
-        <span className="text-sm font-bold tracking-wide text-foreground">VV: ULTIMATUM</span>
+        <span className="grid h-9 w-9 place-items-center rounded-xl border border-border bg-muted text-xs font-black text-foreground">BKZ</span>
+        <span className="text-sm font-bold tracking-wide text-foreground">Build and Kill Zombies</span>
       </Link>
       <nav className="hidden items-center gap-1 md:flex">
         {NAVIGATION_CONFIG.map((item) => (
@@ -72,7 +72,7 @@ export function TrailerCard({ videoId }: { videoId: string }) {
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src="/images/hero-trailer-thumbnail.jpg" alt="VV: ULTIMATUM Official Trailer" className="size-full object-cover transition-all duration-200 group-hover:brightness-80" />
+        <img src="/images/hero-trailer-thumbnail.webp" alt="Build and Kill Zombies Gameplay Guide Video" className="size-full object-cover transition-all duration-200 group-hover:brightness-80" />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">

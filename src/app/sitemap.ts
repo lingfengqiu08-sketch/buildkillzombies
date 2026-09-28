@@ -18,7 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const paths = [...staticPaths, ...dynamicPaths];
 
-  return routing.locales.flatMap((locale) =>
+  const entries = routing.locales.flatMap((locale) =>
     paths.map((path) => ({
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
@@ -26,4 +26,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: path === "/" ? 1 : listingPaths.includes(path) ? 0.8 : 0.6,
     })),
   );
+
+  // Canonical homepage at the site root (/, not only /<locale>)
+  return [
+    { url: `${siteUrl}/`, lastModified: new Date(), changeFrequency: "daily" as const, priority: 1 },
+    ...entries,
+  ];
 }

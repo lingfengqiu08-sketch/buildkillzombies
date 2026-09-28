@@ -1,1 +1,441 @@
-{}
+{
+  "site": {
+    "name": "Build and Kill Zombies Wiki",
+    "shortName": "BKZ Wiki",
+    "tagline": "Wiki da Comunidade Feita por Fãs",
+    "description": "Sua wiki de Build and Kill Zombies feita por fãs, com códigos, guias para iniciantes, builds de veículos, armas e dicas de combustível. Melhore seu carro e avance cada vez mais longe.",
+    "legalNotice": "Wiki não oficial feita por fãs. Sem afiliação com Zombie Car Crusher ou Roblox."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "codes": "Códigos",
+    "guide": "Guia",
+    "builds": "Builds",
+    "equipment": "Equipamentos",
+    "progression": "Progressão",
+    "events": "Eventos",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Build and Kill Zombies Wiki — Códigos, Builds e Armas",
+      "description": "Veja códigos, builds de carros, armas e upgrades de Build and Kill Zombies. Aprenda a montar seu primeiro veículo, ganhar Cash e sobreviver por mais tempo no Roblox."
+    },
+    "hero": {
+      "eyebrow": "Wiki da Comunidade Feita por Fãs",
+      "title": "Build and Kill Zombies Wiki",
+      "description": "Construa um veículo personalizado, arme-o contra os zumbis e transforme cada partida no seu próximo upgrade. Teste sua build e veja até onde você consegue sobreviver.",
+      "stats": [
+        "29.567 online · 28 set. 2026",
+        "31,6 mi+ visitas",
+        "98% de avaliações positivas",
+        "Servidores de 5 jogadores"
+      ],
+      "primaryCta": "Começar o Guia para Iniciantes",
+      "secondaryCta": "Ver Builds de Veículos",
+      "tertiaryCta": "Ver Códigos",
+      "videoLabel": "Vídeo de Gameplay e Guia"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Build and Kill Zombies",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Comece pelo essencial: monte seu primeiro carro, inicie uma partida e entenda o ciclo de construir, lutar e melhorar."
+        },
+        {
+          "number": "2",
+          "title": "Cash e Upgrades",
+          "description": "Entenda como o Cash se encaixa na progressão do veículo e planeje quais upgrades buscar em seguida."
+        },
+        {
+          "number": "3",
+          "title": "Builds de Veículos",
+          "description": "Veja como armas e peças defensivas se encaixam no seu carro e ajuste seu setup para partidas cheias de zumbis."
+        },
+        {
+          "number": "4",
+          "title": "Combustível e Peso",
+          "description": "Entenda por que adicionar mais equipamentos muda o peso do veículo e planeje upgrades de combustível para viagens mais longas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Códigos",
+        "Builds de Veículos",
+        "Armas e Peças",
+        "Cash e Upgrades"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Monte seu primeiro carro, arme-o contra os zumbis e aprenda o ciclo de construir, lutar e melhorar.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Recompensas de COMMUNITY e CashDrop, além do passo a passo de resgate em SHOP → EXCLUSIVE SHOP.",
+          "href": "/codes/build-and-kill-zombies-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores Armas",
+          "description": "Armas registradas e como o peso extra afeta a build do seu veículo.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons"
+        },
+        {
+          "badge": "Popular",
+          "title": "Build de Carro para Iniciantes",
+          "description": "Peças iniciais e um primeiro layout de veículo para as primeiras partidas contra zumbis.",
+          "href": "/builds/build-and-kill-zombies-beginner-car"
+        },
+        {
+          "badge": "Novo",
+          "title": "Viaje Mais Longe",
+          "description": "Equilibre combustível, peso e upgrades para aumentar sua distância.",
+          "href": "/progression/build-and-kill-zombies-how-to-travel-farther"
+        },
+        {
+          "badge": "Novo",
+          "title": "Ganhe Cash Rápido",
+          "description": "Ganhe Cash jogando e reinvista no seu veículo.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Build and Kill Zombies?",
+      "paragraphs": [
+        "Build and Kill Zombies (Construa e mate zumbis na página em português do Roblox) é um jogo de sobrevivência e construção de veículos no Roblox, criado por Zombie Car Crusher. Construa um carro, equipe-o para o combate e avance contra hordas de zumbis.",
+        "Suas partidas giram em torno de ganhar Cash e melhorar o veículo. Armas, capacidade de combustível e peso extra influenciam as escolhas que você faz enquanto se prepara para viajar mais longe."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Zombie Car Crusher"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Construção de Veículos / Sobrevivência"
+        },
+        {
+          "label": "Visitas",
+          "value": "31,6 mi+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "848.894"
+        },
+        {
+          "label": "Pico de Jogadores Simultâneos",
+          "value": "139.882"
+        },
+        {
+          "label": "Máximo de Jogadores por Servidor",
+          "value": "5"
+        }
+      ],
+      "cta": "Ver Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore os Guias de Build and Kill Zombies",
+      "description": "Vá direto para as oito seções da página inicial e role até o módulo de que você precisa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Build and Kill Zombies",
+          "description": "Cinco códigos ativos em 28 de setembro de 2026. Conclua o tutorial e vá em SHOP → EXCLUSIVE SHOP → Enter Code → REDEEM para resgatar Cash, Lightning Tokens, peças e assentos.",
+          "href": "/codes/build-and-kill-zombies-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ZEUS",
+              "detail": "50 Lightning Tokens.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "IAMPRO",
+              "detail": "5.000 de Cash; exige uma melhor distância de 1.000 studs.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "1.000 de Cash, 1 Motor Pequeno e 1 Tanque Pequeno.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "CashDrop",
+              "detail": "500 de Cash.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "MOREFRIENDS",
+              "detail": "2 Assentos de Passageiro.",
+              "badge": "Ativo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de Build and Kill Zombies",
+          "description": "Comece pelo ciclo principal definido pelo desenvolvedor: construa um carro, arme-o para o combate contra zumbis e reinvista seu Cash em upgrades.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Construa seu carro."
+            },
+            {
+              "label": "2",
+              "detail": "Equipe o veículo com armas e componentes defensivos."
+            },
+            {
+              "label": "3",
+              "detail": "Atravesse as hordas de zumbis e ganhe Cash."
+            },
+            {
+              "label": "4",
+              "detail": "Gaste o Cash ganho em upgrades para o seu veículo."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de Construção de Veículos de Build and Kill Zombies",
+          "description": "Combustível, destruição do veículo e peso extra afetam suas partidas.",
+          "href": "/guide/build-and-kill-zombies-building-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Combustível",
+              "detail": "Ficar sem combustível encerra a partida."
+            },
+            {
+              "label": "Destruição",
+              "detail": "A partida também termina quando o veículo é destruído."
+            },
+            {
+              "label": "Peso",
+              "detail": "Armas e tanques de combustível extras adicionam peso e exigem upgrades para compensar."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Armas de Build and Kill Zombies",
+          "description": "Armas que você pode montar no carro para eliminar zumbis, incluindo a Besta e a Metralhadora Montada. Toda arma adiciona peso, então equilibre seu loadout com upgrades que compensem.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Besta",
+              "detail": "Concedida anteriormente pelo código PAINTEVERYWHERE, já expirado.",
+              "badge": "Recompensa Antiga"
+            },
+            {
+              "label": "Metralhadora Montada",
+              "detail": "Concedida anteriormente pelo código PAINTEVERYWHERE, já expirado.",
+              "badge": "Recompensa Antiga"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Peças de Build and Kill Zombies",
+          "description": "Peças de veículo obtidas como recompensa de códigos, incluindo o Motor Pequeno, o Tanque Pequeno e os Assentos de Passageiro.",
+          "href": "/equipment/build-and-kill-zombies-best-blocks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Motor Pequeno",
+              "detail": "Incluído na recompensa do código COMMUNITY."
+            },
+            {
+              "label": "Tanque Pequeno",
+              "detail": "Incluído na recompensa do código COMMUNITY."
+            },
+            {
+              "label": "Assentos de Passageiro",
+              "detail": "Incluídos na recompensa do código MOREFRIENDS."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Cash e Upgrades de Build and Kill Zombies",
+          "description": "O Cash move o ciclo de upgrades do veículo: ganhe em cada partida e gaste em rolagens de Peças e Armas.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ganhos",
+              "detail": "Ganhe Cash jogando e reinvista no seu veículo."
+            },
+            {
+              "label": "Compras",
+              "detail": "O Cash paga as rolagens de Peças e Armas."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tokens de Evento de Build and Kill Zombies",
+          "description": "Moedas especiais de códigos e promoções, incluindo Lightning Tokens do código ZEUS e Hacker Tokens de promoções anteriores.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-tokens-fast",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lightning Tokens",
+              "detail": "Moeda de recompensa do código ZEUS."
+            },
+            {
+              "label": "Hacker Tokens",
+              "detail": "Concedidos por códigos promocionais antigos que já expiraram.",
+              "badge": "Promoção Antiga"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Jogo Oficial e Comunidade de Build and Kill Zombies",
+          "description": "Use a experiência oficial e a comunidade do criador vinculada a ela para identificar o jogo correto.",
+          "href": "/community/build-and-kill-zombies-how-to-join-group",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jogo Oficial",
+              "detail": "A experiência no Roblox se chama Build and Kill Zombies, identifica Zombie Car Crusher como criador e usa o place ID 105011592530400.",
+              "badge": "Oficial"
+            },
+            {
+              "label": "Comunidade",
+              "detail": "Zombie Car Crusher é a comunidade do Roblox vinculada nos créditos de criador da experiência oficial.",
+              "badge": "Oficial"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Build and Kill Zombies.",
+      "items": [
+        {
+          "question": "O que é Build and Kill Zombies?",
+          "answer": "Build and Kill Zombies é um jogo de sobrevivência e construção de veículos no Roblox, criado por Zombie Car Crusher. Você constrói um carro, equipa-o com armas e peças defensivas, atravessa hordas de zumbis e gasta o Cash que ganha em upgrades."
+        },
+        {
+          "question": "Quais são os códigos ativos de Build and Kill Zombies?",
+          "answer": "Os códigos ativos de Build and Kill Zombies em 28 de setembro de 2026 são ZEUS (50 Lightning Tokens), IAMPRO (5.000 de Cash, exige uma melhor distância de 1.000 studs), COMMUNITY (1.000 de Cash, 1 Motor Pequeno e 1 Tanque Pequeno), CashDrop (500 de Cash) e MOREFRIENDS (2 Assentos de Passageiro)."
+        },
+        {
+          "question": "Como resgato códigos de Build and Kill Zombies?",
+          "answer": "Conclua o tutorial de Build and Kill Zombies, abra SHOP no lado esquerdo da tela, vá para EXCLUSIVE SHOP, role até a caixa de código, digite um código como COMMUNITY ou CashDrop e pressione REDEEM."
+        },
+        {
+          "question": "Por que minha partida em Build and Kill Zombies termina?",
+          "answer": "Uma partida de Build and Kill Zombies termina quando o veículo fica sem combustível ou é destruído. Armas e tanques de combustível extras adicionam peso, então equilibre poder de fogo, capacidade de combustível e upgrades para viajar mais longe."
+        },
+        {
+          "question": "Como ganho Cash em Build and Kill Zombies?",
+          "answer": "Em Build and Kill Zombies, você ganha Cash atravessando hordas de zumbis e depois gasta em upgrades do veículo e em rolagens de Peças e Armas. Os códigos COMMUNITY e CashDrop dão 1.000 e 500 de Cash bônus."
+        },
+        {
+          "question": "Quantos jogadores cabem em um servidor de Build and Kill Zombies?",
+          "answer": "Cada servidor de Build and Kill Zombies comporta até 5 jogadores. Esse é o limite do servidor, não o número de assentos de um único veículo."
+        },
+        {
+          "question": "A Build and Kill Zombies Wiki é oficial?",
+          "answer": "Não. A Build and Kill Zombies Wiki é um site de guias independente feito por fãs e não tem afiliação com Zombie Car Crusher ou Roblox. Jogue Build and Kill Zombies pela página oficial no Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Build and Kill Zombies?",
+      "description": "Monte seu primeiro carro esmaga-zumbis, planeje o próximo upgrade e busque uma partida mais longa. Comece pelo guia para iniciantes.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Build and Kill Zombies",
+    "overviewDescription": "Todos os códigos funcionais de Build and Kill Zombies em um só lugar, com o Cash, os Tokens e as Peças que cada um oferece e instruções passo a passo para resgatá-los no jogo do Roblox."
+  },
+  "guide": {
+    "overviewTitle": "Guias para Iniciantes de Build and Kill Zombies",
+    "overviewDescription": "Comece bem em Build and Kill Zombies com guias para iniciantes sobre controles, a oficina de construção e os primeiros upgrades que levam seu veículo através da horda de zumbis."
+  },
+  "builds": {
+    "overviewTitle": "Builds de Carros de Build and Kill Zombies",
+    "overviewDescription": "Builds de veículos comprovadas de Build and Kill Zombies, de carros iniciais baratos a monster trucks e tanques, com as peças, layouts e upgrades que levam cada partida mais longe."
+  },
+  "equipment": {
+    "overviewTitle": "Armas e Blocos de Build and Kill Zombies",
+    "overviewDescription": "Compare armas, torres e blocos de construção de Build and Kill Zombies com tier list de torres, DPS da metralhadora montada, loadouts de minigun e caminhos de upgrade de armas."
+  },
+  "progression": {
+    "overviewTitle": "Guias de Progressão de Build and Kill Zombies",
+    "overviewDescription": "Ganhe Cash e Tokens mais rápido, viaje mais longe em cada partida e aproveite ao máximo a sorte do servidor com guias de progressão de Build and Kill Zombies focados em farm de distância."
+  },
+  "events": {
+    "overviewTitle": "Eventos e Atualizações de Build and Kill Zombies",
+    "overviewDescription": "Acompanhe as atualizações e os eventos por tempo limitado de Build and Kill Zombies, incluindo o evento do chefe Zeus, suas recompensas e as mudanças da atualização mais recente."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Build and Kill Zombies",
+    "overviewDescription": "Participe da comunidade de Build and Kill Zombies no Discord, no Reddit e no grupo do Roblox, e veja como curtir o jogo e entrar no grupo desbloqueia recompensas de baú grátis."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Build and Kill Zombies Wiki",
+    "about": "A Build and Kill Zombies Wiki é um site de guias independente feito por fãs. Veja dicas para iniciantes, builds de veículos, upgrades e informações sobre códigos. Este site não tem afiliação com Zombie Car Crusher ou Roblox.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Informações Legais",
+    "copyright": "© 2026 Build and Kill Zombies Wiki. Sem afiliação com Zombie Car Crusher ou Roblox.",
+    "description": "Construa, arme e melhore seu veículo para partidas de sobrevivência cheias de zumbis no Roblox.",
+    "gameTitle": "Build and Kill Zombies",
+    "playGame": "Jogar Build and Kill Zombies no Roblox",
+    "officialCommunity": "Comunidade Zombie Car Crusher no Roblox",
+    "beginnerGuide": "Guia para Iniciantes",
+    "codesGuide": "Códigos",
+    "buildGuide": "Builds de Veículos",
+    "equipmentGuide": "Armas e Peças",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

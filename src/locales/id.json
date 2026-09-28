@@ -1,1 +1,441 @@
-{}
+{
+  "site": {
+    "name": "Build and Kill Zombies Wiki",
+    "shortName": "BKZ Wiki",
+    "tagline": "Wiki Komunitas Buatan Penggemar",
+    "description": "Wiki Build and Kill Zombies buatan penggemar dengan kode, panduan pemula, build kendaraan, senjata, dan tips bahan bakar. Upgrade mobilmu dan tempuh jarak yang makin jauh.",
+    "legalNotice": "Wiki penggemar tidak resmi. Tidak berafiliasi dengan Zombie Car Crusher atau Roblox."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "codes": "Kode",
+    "guide": "Panduan",
+    "builds": "Build",
+    "equipment": "Perlengkapan",
+    "progression": "Progresi",
+    "events": "Event",
+    "community": "Komunitas"
+  },
+  "home": {
+    "meta": {
+      "title": "Build and Kill Zombies Wiki — Kode, Build & Senjata",
+      "description": "Temukan kode, build mobil, senjata, dan upgrade Build and Kill Zombies. Pelajari cara membuat kendaraan pertamamu, mendapatkan Cash, dan bertahan lebih lama di Roblox."
+    },
+    "hero": {
+      "eyebrow": "Wiki Komunitas Buatan Penggemar",
+      "title": "Build and Kill Zombies Wiki",
+      "description": "Bangun kendaraan kustom, persenjatai untuk melawan zombie, dan jadikan setiap run sebagai modal upgrade berikutnya. Bereksperimenlah dengan build-mu dan lihat seberapa jauh kamu bisa bertahan.",
+      "stats": [
+        "29.567 Online · 28 Sep 2026",
+        "31,6 jt+ Kunjungan",
+        "98% Rating Positif",
+        "Server 5 Pemain"
+      ],
+      "primaryCta": "Mulai Panduan Pemula",
+      "secondaryCta": "Lihat Build Kendaraan",
+      "tertiaryCta": "Cek Kode",
+      "videoLabel": "Video Gameplay & Panduan"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Lihat Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalananmu di Build and Kill Zombies",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Mulai dari dasar: rakit mobil pertamamu, mulai run, dan pahami siklus membangun, bertarung, lalu upgrade."
+        },
+        {
+          "number": "2",
+          "title": "Cash & Upgrade",
+          "description": "Pelajari peran Cash dalam progresi kendaraan dan rencanakan upgrade yang akan kamu kejar berikutnya."
+        },
+        {
+          "number": "3",
+          "title": "Build Kendaraan",
+          "description": "Lihat bagaimana senjata dan part pertahanan dipasang di mobilmu, lalu sempurnakan setup untuk run yang penuh zombie."
+        },
+        {
+          "number": "4",
+          "title": "Bahan Bakar & Berat",
+          "description": "Pahami mengapa menambah perlengkapan mengubah berat kendaraan, dan rencanakan upgrade bahan bakar untuk perjalanan yang lebih jauh."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Kode",
+        "Build Kendaraan",
+        "Senjata & Part",
+        "Cash & Upgrade"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Rakit mobil pertamamu, persenjatai untuk melawan zombie, dan pelajari siklus membangun, bertarung, lalu upgrade.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Hadiah COMMUNITY dan CashDrop plus langkah redeem lewat SHOP → EXCLUSIVE SHOP.",
+          "href": "/codes/build-and-kill-zombies-codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Senjata Terbaik",
+          "description": "Senjata yang terdokumentasi dan pengaruh tambahan berat pada build kendaraanmu.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons"
+        },
+        {
+          "badge": "Populer",
+          "title": "Build Mobil Pemula",
+          "description": "Part awal dan tata letak kendaraan pertama untuk run awal melawan zombie.",
+          "href": "/builds/build-and-kill-zombies-beginner-car"
+        },
+        {
+          "badge": "Baru",
+          "title": "Tempuh Jarak Lebih Jauh",
+          "description": "Seimbangkan bahan bakar, berat, dan upgrade untuk menambah jarak tempuhmu.",
+          "href": "/progression/build-and-kill-zombies-how-to-travel-farther"
+        },
+        {
+          "badge": "Baru",
+          "title": "Dapat Cash dengan Cepat",
+          "description": "Dapatkan Cash dari gameplay dan investasikan kembali ke kendaraanmu.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Build and Kill Zombies?",
+      "paragraphs": [
+        "Build and Kill Zombies adalah game survival membangun kendaraan di Roblox buatan Zombie Car Crusher. Rakit mobil, lengkapi untuk bertempur, lalu terjang gelombang zombie.",
+        "Setiap run berpusat pada mendapatkan Cash dan meningkatkan kendaraanmu. Senjata, kapasitas bahan bakar, dan tambahan berat memengaruhi pilihan yang kamu buat saat bersiap menempuh jarak lebih jauh."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Zombie Car Crusher"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Membangun Kendaraan / Survival"
+        },
+        {
+          "label": "Kunjungan",
+          "value": "31,6 jt+"
+        },
+        {
+          "label": "Favorit",
+          "value": "848.894"
+        },
+        {
+          "label": "Puncak Pemain Bersamaan",
+          "value": "139.882"
+        },
+        {
+          "label": "Maksimum Pemain per Server",
+          "value": "5"
+        }
+      ],
+      "cta": "Lihat Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Panduan Build and Kill Zombies",
+      "description": "Langsung menuju delapan bagian halaman utama dan gulir ke modul yang kamu butuhkan.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode Build and Kill Zombies",
+          "description": "Lima kode aktif per 28 September 2026. Selesaikan tutorial, lalu buka SHOP → EXCLUSIVE SHOP → Enter Code → REDEEM untuk mengklaim Cash, Lightning Tokens, part, dan kursi.",
+          "href": "/codes/build-and-kill-zombies-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ZEUS",
+              "detail": "50 Lightning Tokens.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "IAMPRO",
+              "detail": "5.000 Cash; butuh jarak terbaik 1.000 studs.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "1.000 Cash, 1 Small Engine, dan 1 Small Tank.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "CashDrop",
+              "detail": "500 Cash.",
+              "badge": "Aktif"
+            },
+            {
+              "label": "MOREFRIENDS",
+              "detail": "2 Passenger Seats.",
+              "badge": "Aktif"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula Build and Kill Zombies",
+          "description": "Mulai dari siklus inti versi developer: bangun mobil, persenjatai untuk melawan zombie, dan investasikan kembali Cash-mu ke upgrade.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bangun mobilmu."
+            },
+            {
+              "label": "2",
+              "detail": "Lengkapi kendaraan dengan senjata dan komponen pertahanan."
+            },
+            {
+              "label": "3",
+              "detail": "Terjang gelombang zombie dan dapatkan Cash."
+            },
+            {
+              "label": "4",
+              "detail": "Gunakan Cash yang didapat untuk upgrade kendaraanmu."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Panduan Membangun Kendaraan Build and Kill Zombies",
+          "description": "Bahan bakar, kehancuran kendaraan, dan tambahan berat memengaruhi setiap run.",
+          "href": "/guide/build-and-kill-zombies-building-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bahan Bakar",
+              "detail": "Kehabisan bahan bakar mengakhiri run."
+            },
+            {
+              "label": "Kehancuran",
+              "detail": "Run juga berakhir saat kendaraan hancur."
+            },
+            {
+              "label": "Berat",
+              "detail": "Senjata dan tangki bahan bakar tambahan menambah berat, sehingga butuh upgrade penyeimbang."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Senjata Build and Kill Zombies",
+          "description": "Senjata yang bisa dipasang di mobil untuk membasmi zombie, termasuk Crossbow dan Mounted Gun. Setiap senjata menambah berat, jadi seimbangkan loadout dengan upgrade penyeimbang.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Crossbow",
+              "detail": "Sebelumnya diberikan oleh kode PAINTEVERYWHERE yang kini sudah kedaluwarsa.",
+              "badge": "Hadiah Lama"
+            },
+            {
+              "label": "Mounted Gun",
+              "detail": "Sebelumnya diberikan oleh kode PAINTEVERYWHERE yang kini sudah kedaluwarsa.",
+              "badge": "Hadiah Lama"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Part Build and Kill Zombies",
+          "description": "Part kendaraan dari hadiah kode, termasuk Small Engine, Small Tank, dan Passenger Seats.",
+          "href": "/equipment/build-and-kill-zombies-best-blocks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Small Engine",
+              "detail": "Termasuk dalam hadiah kode COMMUNITY."
+            },
+            {
+              "label": "Small Tank",
+              "detail": "Termasuk dalam hadiah kode COMMUNITY."
+            },
+            {
+              "label": "Passenger Seats",
+              "detail": "Termasuk dalam hadiah kode MOREFRIENDS."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Cash dan Upgrade Build and Kill Zombies",
+          "description": "Cash menggerakkan siklus upgrade kendaraan: dapatkan di setiap run, lalu belanjakan untuk roll Part dan Senjata.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pendapatan",
+              "detail": "Dapatkan Cash dari gameplay dan investasikan kembali ke kendaraanmu."
+            },
+            {
+              "label": "Pembelian",
+              "detail": "Cash dipakai untuk roll Part dan Senjata."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Token Event Build and Kill Zombies",
+          "description": "Mata uang khusus dari kode dan promosi, termasuk Lightning Tokens dari kode ZEUS dan Hacker Tokens dari promosi sebelumnya.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-tokens-fast",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lightning Tokens",
+              "detail": "Mata uang hadiah dari kode ZEUS."
+            },
+            {
+              "label": "Hacker Tokens",
+              "detail": "Diberikan oleh kode promosi lama yang sudah kedaluwarsa.",
+              "badge": "Promosi Lama"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Game Resmi dan Komunitas Build and Kill Zombies",
+          "description": "Gunakan experience resmi dan komunitas kreator yang ditautkan darinya untuk memastikan game yang benar.",
+          "href": "/community/build-and-kill-zombies-how-to-join-group",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Game Resmi",
+              "detail": "Experience Roblox ini berjudul Build and Kill Zombies, mencantumkan Zombie Car Crusher sebagai kreatornya, dan memakai place ID 105011592530400.",
+              "badge": "Resmi"
+            },
+            {
+              "label": "Komunitas",
+              "detail": "Zombie Car Crusher adalah komunitas Roblox yang ditautkan dari atribusi kreator pada experience resmi.",
+              "badge": "Resmi"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban singkat untuk pertanyaan paling umum tentang Build and Kill Zombies.",
+      "items": [
+        {
+          "question": "Apa itu Build and Kill Zombies?",
+          "answer": "Build and Kill Zombies adalah game survival membangun kendaraan di Roblox buatan Zombie Car Crusher. Kamu membangun mobil, melengkapinya dengan senjata dan part pertahanan, menerjang gelombang zombie, lalu memakai Cash yang didapat untuk upgrade."
+        },
+        {
+          "question": "Apa saja kode Build and Kill Zombies yang masih aktif?",
+          "answer": "Kode Build and Kill Zombies yang aktif per 28 September 2026 adalah ZEUS (50 Lightning Tokens), IAMPRO (5.000 Cash, butuh jarak terbaik 1.000 studs), COMMUNITY (1.000 Cash, 1 Small Engine, dan 1 Small Tank), CashDrop (500 Cash), dan MOREFRIENDS (2 Passenger Seats)."
+        },
+        {
+          "question": "Bagaimana cara redeem kode Build and Kill Zombies?",
+          "answer": "Selesaikan tutorial Build and Kill Zombies, buka SHOP di sisi kiri layar, masuk ke EXCLUSIVE SHOP, gulir ke kotak kode, masukkan kode seperti COMMUNITY atau CashDrop, lalu tekan REDEEM."
+        },
+        {
+          "question": "Kenapa run Build and Kill Zombies saya berakhir?",
+          "answer": "Run Build and Kill Zombies berakhir saat kendaraanmu kehabisan bahan bakar atau hancur. Senjata dan tangki bahan bakar tambahan menambah berat, jadi seimbangkan daya tembak, kapasitas bahan bakar, dan upgrade agar bisa menempuh jarak lebih jauh."
+        },
+        {
+          "question": "Bagaimana cara mendapatkan Cash di Build and Kill Zombies?",
+          "answer": "Di Build and Kill Zombies, kamu mendapatkan Cash dengan menerjang gelombang zombie, lalu memakainya untuk upgrade kendaraan serta roll Part dan Senjata. Kode COMMUNITY dan CashDrop memberi bonus 1.000 dan 500 Cash."
+        },
+        {
+          "question": "Berapa pemain yang bisa masuk ke satu server Build and Kill Zombies?",
+          "answer": "Setiap server Build and Kill Zombies menampung hingga 5 pemain. Itu batas server, bukan jumlah kursi pada satu kendaraan."
+        },
+        {
+          "question": "Apakah Build and Kill Zombies Wiki resmi?",
+          "answer": "Tidak. Build and Kill Zombies Wiki adalah situs panduan independen buatan penggemar dan tidak berafiliasi dengan Zombie Car Crusher atau Roblox. Mainkan Build and Kill Zombies melalui halaman resminya di Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Build and Kill Zombies?",
+      "description": "Bangun mobil penghancur zombie pertamamu, rencanakan upgrade berikutnya, dan kejar run yang lebih panjang. Mulai dari panduan pemula.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Kode Build and Kill Zombies",
+    "overviewDescription": "Semua kode Build and Kill Zombies yang berfungsi di satu tempat, lengkap dengan Cash, Token, dan Part yang diberikan setiap kode serta langkah demi langkah cara redeem-nya di game Roblox."
+  },
+  "guide": {
+    "overviewTitle": "Panduan Pemula Build and Kill Zombies",
+    "overviewDescription": "Mulai dengan mantap di Build and Kill Zombies lewat panduan pemula tentang kontrol, bengkel pembangunan, dan upgrade awal yang membawa kendaraanmu menembus gerombolan zombie."
+  },
+  "builds": {
+    "overviewTitle": "Build Mobil Build and Kill Zombies",
+    "overviewDescription": "Build kendaraan Build and Kill Zombies yang terbukti, dari mobil starter murah hingga monster truck dan tank, lengkap dengan part, tata letak, dan upgrade yang membuat setiap run melaju lebih jauh."
+  },
+  "equipment": {
+    "overviewTitle": "Senjata dan Blok Build and Kill Zombies",
+    "overviewDescription": "Bandingkan senjata, turret, dan blok bangunan Build and Kill Zombies dengan tier list turret, DPS Mounted Gun, loadout minigun, dan jalur upgrade senjata."
+  },
+  "progression": {
+    "overviewTitle": "Panduan Progresi Build and Kill Zombies",
+    "overviewDescription": "Dapatkan Cash dan Token lebih cepat, tempuh jarak lebih jauh di setiap run, dan manfaatkan server luck secara maksimal dengan panduan progresi Build and Kill Zombies yang berfokus pada farming jarak."
+  },
+  "events": {
+    "overviewTitle": "Event dan Pembaruan Build and Kill Zombies",
+    "overviewDescription": "Ikuti pembaruan dan event terbatas Build and Kill Zombies, termasuk event boss Zeus, hadiahnya, dan perubahan pada pembaruan terbaru."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Build and Kill Zombies",
+    "overviewDescription": "Bergabunglah dengan komunitas Build and Kill Zombies di Discord, Reddit, dan grup Roblox, serta pelajari bagaimana like game dan join grup membuka hadiah chest gratis."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan yang tersedia. Kunjungi lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Build and Kill Zombies Wiki",
+    "about": "Build and Kill Zombies Wiki adalah situs panduan independen buatan penggemar. Temukan tips pemula, build kendaraan, upgrade, dan informasi kode. Situs ini tidak berafiliasi dengan Zombie Car Crusher atau Roblox.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "© 2026 Build and Kill Zombies Wiki. Tidak berafiliasi dengan Zombie Car Crusher atau Roblox.",
+    "description": "Bangun, persenjatai, dan upgrade kendaraanmu untuk run survival penuh zombie di Roblox.",
+    "gameTitle": "Build and Kill Zombies",
+    "playGame": "Main Build and Kill Zombies di Roblox",
+    "officialCommunity": "Komunitas Roblox Zombie Car Crusher",
+    "beginnerGuide": "Panduan Pemula",
+    "codesGuide": "Kode",
+    "buildGuide": "Build Kendaraan",
+    "equipmentGuide": "Senjata & Part",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}

@@ -1,14 +1,16 @@
 import type { MetadataRoute } from "next";
-import { getAllContentPaths } from "@/lib/content";
+import { CONTENT_TYPES, getAllContentPaths } from "@/lib/content";
 import { routing } from "@/i18n/routing";
+import { SITE_URL } from "@/lib/site-url";
 
 export const dynamic = "force-static";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://vvultimatum.sbs";
+  const siteUrl = SITE_URL;
 
-  // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  // Listing pages come straight from CONTENT_TYPES so the sitemap never drifts from the navigation config
+  const listingPaths: string[] = CONTENT_TYPES.map((ct) => `/${ct}`);
+  const staticPaths = ["/", ...listingPaths, "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
@@ -21,7 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
       lastModified: new Date(),
       changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : path === "/bosses" ? 0.8 : 0.6,
+      priority: path === "/" ? 1 : listingPaths.includes(path) ? 0.8 : 0.6,
     })),
   );
 }

@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
+    "name": "Build and Kill Zombies Wiki",
+    "shortName": "BKZ Wiki",
     "tagline": "ファンメイド コミュニティ Wiki",
-    "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
-    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための攻略サイト。"
+    "description": "Build and Kill Zombies のファンメイド攻略Wiki。コード、初心者ガイド、車両ビルド、武器、燃料のコツをまとめています。車を強化して、より長い走行を目指しましょう。",
+    "legalNotice": "非公式ファンWiki。Zombie Car Crusher および Roblox とは無関係です。"
   },
   "nav": {
     "races": "種族",
@@ -21,24 +21,23 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — コード・ビルド・ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の完全攻略Wiki。有効なコード、ボス攻略、種族ガイド、ビルド最適化、死神・滅却師・虚の進行ウォークスルー。"
+      "title": "Build and Kill Zombies Wiki — コード・ビルド・武器",
+      "description": "Build and Kill Zombies のコード、車両ビルド、武器、アップグレード情報を掲載。最初の車の作り方、Cash の稼ぎ方、Roblox で長く生き残るコツを解説します。"
     },
     "hero": {
       "eyebrow": "ファンメイド コミュニティ Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
+      "title": "Build and Kill Zombies Wiki",
+      "description": "自分だけの車両を組み立て、武器を積んでゾンビに立ち向かい、毎回の走行を次のアップグレードにつなげましょう。ビルドを試行錯誤して、どこまで生き残れるか挑戦できます。",
       "stats": [
-        "6月5日配信",
-        "6月12日更新",
-        "3種族",
-        "Lv100上限",
-        "130+スキル"
+        "オンライン 29,567 人 · 2026年9月28日",
+        "訪問数 31.6M+",
+        "高評価率 98%",
+        "1サーバー最大5人"
       ],
       "primaryCta": "初心者ガイドを見る",
-      "secondaryCta": "種族を比較する",
-      "tertiaryCta": "有効なコードを確認",
-      "videoLabel": "公式メディア"
+      "secondaryCta": "車両ビルドを探す",
+      "tertiaryCta": "コードを確認",
+      "videoLabel": "ゲームプレイ解説動画"
     },
     "updates": {
       "title": "最新更新",
@@ -46,28 +45,28 @@
       "viewAll": "すべて見る"
     },
     "start": {
-      "eyebrow": "ここから始める",
-      "title": "VV Ultimatum の旅立ち",
+      "eyebrow": "ここから始めよう",
+      "title": "Build and Kill Zombies の進め方",
       "cards": [
         {
           "number": "1",
           "title": "初心者ガイド",
-          "description": "操作方法・戦闘・序盤の進行を網羅した完全初心者ガイドで、1日目から霊界を制覇。"
+          "description": "最初の車を組み立てて走行を始め、「作る・戦う・強化する」の基本ループを理解しましょう。"
         },
         {
           "number": "2",
-          "title": "最速レベル上げ",
-          "description": "最も効率的なレベルアップルートと戦略で、序盤を圧倒的に有利に進める。"
+          "title": "Cash とアップグレード",
+          "description": "Cash が車両の成長にどう関わるかを知り、次に目指すアップグレードを計画しましょう。"
         },
         {
           "number": "3",
-          "title": "最佳素材集めスポット",
-          "description": "各段階に最適な素材集め場所で、魂の結晶とEXPを最大化。"
+          "title": "車両ビルド",
+          "description": "武器や防御パーツを車にどう組み込むかを確認し、ゾンビだらけの走行に向けて構成を磨きましょう。"
         },
         {
           "number": "4",
-          "title": "抽出方法",
-          "description": "VV Ultimatum で資源を抽出する最適な方法と場所を解説。"
+          "title": "燃料と重量",
+          "description": "装備を増やすと車両の重量が変わる理由を理解し、長距離走行に向けて燃料のアップグレードを計画しましょう。"
         }
       ]
     },
@@ -75,78 +74,60 @@
       "eyebrow": "人気ページ",
       "title": "トレンド",
       "quickLinks": [
-        "虚 進行ガイド",
-        "最速レベル上げ",
-        "霊のお守り",
-        "全ボス攻略"
+        "コード",
+        "車両ビルド",
+        "武器とパーツ",
+        "Cash とアップグレード"
       ],
       "cards": [
         {
           "badge": "初心者",
           "title": "初心者ガイド",
-          "description": "初回ログインから戦闘と進行の基本をマスターするまで、必要な情報をすべて解説。",
-          "href": "/beginner-guide"
+          "description": "最初の車を組み立てて武装し、「作る・戦う・強化する」ループを覚えましょう。",
+          "href": "/guide/build-and-kill-zombies-beginner-guide"
         },
         {
           "badge": "更新",
           "title": "有効なコード",
-          "description": "期限切れ前に報酬を受け取れる、現在有効な全コード一覧。",
-          "href": "/codes"
-        },
-        {
-          "badge": "更新",
-          "title": "装備データベース",
-          "description": "5スロット94アイテムの完全装備データベース。ステータス・レアリティ・入手方法付き。",
-          "href": "/equipment"
+          "description": "COMMUNITY と CashDrop の報酬、SHOP → EXCLUSIVE SHOP での入力手順。",
+          "href": "/codes/build-and-kill-zombies-codes"
         },
         {
           "badge": "人気",
-          "title": "どの種族を選ぶべき？",
-          "description": "死神・滅却師・虚の3種族を比較し、自分に合ったプレイスタイルを見つけよう。",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "新着",
-          "title": "敵・モンスター一覧",
-          "description": "5地域に生息する23種の敵。ドロップ・出現場所・素材集めのコツ。",
-          "href": "/enemies"
+          "title": "おすすめ武器",
+          "description": "記録のある武器と、追加重量が車両ビルドに与える影響。",
+          "href": "/equipment/build-and-kill-zombies-best-weapons"
         },
         {
           "badge": "人気",
-          "title": "ボスの場所とドロップ",
-          "description": "全ボスの出現場所、ドロップテーブル、リスポーンタイマーを一覧化。",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "人気",
-          "title": "ベストビルド",
-          "description": "全プレイスタイルに最適なステータス配分、スキルツリー、お守りコンボ。",
-          "href": "/builds/best-builds"
+          "title": "初心者向け車両ビルド",
+          "description": "序盤のゾンビ走行に向けたスターターパーツと最初の車両レイアウト。",
+          "href": "/builds/build-and-kill-zombies-beginner-car"
         },
         {
           "badge": "新着",
-          "title": "始解 Tier List",
-          "description": "死神の6種の始解をPvP・PvE性能でランキング。",
-          "href": "/tier-list/shikai"
+          "title": "より遠くへ走る",
+          "description": "燃料・重量・アップグレードのバランスで走行距離を伸ばしましょう。",
+          "href": "/progression/build-and-kill-zombies-how-to-travel-farther"
         },
         {
           "badge": "新着",
-          "title": "ワールドイベントガイド",
-          "description": "補給物資、レイド、レア報酬のエンドゲームワールドイベント。",
-          "href": "/world-events"
+          "title": "Cash を素早く稼ぐ",
+          "description": "ゲームプレイで Cash を稼ぎ、車両に再投資しましょう。",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast"
         }
       ]
     },
     "aboutGame": {
-      "title": "VV: ULTIMATUM とは？",
+      "title": "Build and Kill Zombies とは？",
       "paragraphs": [
-        "VV: ULTIMATUM は Bleach アニメをモチーフにした Roblox のスタイリッシュ格闘 RPG です。死神・滅却師・虚の3つのプレイアブル種族から選択でき、それぞれ独自の進行システム、解放可能な能力、進化ルートを備えています。130以上のスキルをマスターし、レベル100の上限を目指して戦い抜こう。",
-        "始めての始解の解放、基礎虚からアランカルへの進化、滅却師の副隊長ミッションの周回など、当Wikiは全システムを詳細なガイド、データテーブル、ステップバイステップのウォークスルーで解説しています。"
+        "Build and Kill Zombies は、Zombie Car Crusher が Roblox で公開している車両ビルド型サバイバルゲームです。車を組み立て、戦闘用の装備を積み、ゾンビの群れへ突っ込みます。",
+        "走行では Cash を稼いで車両を強化していきます。武器、燃料容量、追加された重量のすべてが、より遠くを目指す準備の選択に影響します。"
       ],
       "stats": [
         {
-          "label": "開発元",
-          "value": "Midnight Continent"
+          "label": "開発者",
+          "value": "Zombie Car Crusher"
         },
         {
           "label": "プラットフォーム",
@@ -154,249 +135,202 @@
         },
         {
           "label": "ジャンル",
-          "value": "格闘 RPG"
+          "value": "車両ビルド / サバイバル"
         },
         {
           "label": "訪問数",
-          "value": "12.6M+"
+          "value": "31.6M+"
         },
         {
           "label": "お気に入り",
-          "value": "243K+"
+          "value": "848,894"
         },
         {
-          "label": "全スキル数",
-          "value": "130+"
+          "label": "最大同時接続数",
+          "value": "139,882"
         },
         {
-          "label": "レベル上限",
-          "value": "100"
+          "label": "1サーバーの最大人数",
+          "value": "5"
         }
       ],
-      "cta": "全ガイドを見る"
+      "cta": "すべてのガイドを見る"
     },
     "explore": {
-      "title": "VV Ultimatum ホームページモジュールナビゲーション",
-      "description": "8つのホームページセクションから必要な情報にすぐアクセス。",
+      "title": "Build and Kill Zombies ガイドを探す",
+      "description": "トップページの8つのセクションへ移動し、必要なモジュールまでスクロールできます。",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum コード",
-          "description": "リロールを消費する前にコードを引き換えて、より柔軟に種族ビルドを試せるようにしましょう。",
-          "href": "/codes",
+          "name": "Build and Kill Zombies コード",
+          "description": "2026年9月28日時点で有効と報告されたコードです。チュートリアル完了後、SHOP → EXCLUSIVE SHOP → Enter Code → REDEEM の順に操作します。",
+          "href": "/codes/build-and-kill-zombies-codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "day1",
-              "detail": "3× クランリロール + トークンブースター + 集中の霊薬",
-              "badge": "有効"
+              "label": "ZEUS",
+              "detail": "Lightning Tokens 50個。",
+              "badge": "有効と報告"
+            },
+            {
+              "label": "IAMPRO",
+              "detail": "5,000 Cash。ベスト距離 1,000 studs が必要。",
+              "badge": "有効と報告"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "1,000 Cash、Small Engine 1個、Small Tank 1個。",
+              "badge": "有効と報告"
+            },
+            {
+              "label": "CashDrop",
+              "detail": "500 Cash。",
+              "badge": "有効と報告"
+            },
+            {
+              "label": "MOREFRIENDS",
+              "detail": "Passenger Seats 2個。",
+              "badge": "有効と報告"
             }
           ]
         },
         {
           "order": 2,
-          "name": "VV Ultimatum 初心者ガイド",
-          "description": "最初の1時間で種族ルートを決定し、操作を覚え、ランダムなリロールで資源を無駄にせずにクエストを進めよう。",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "name": "Build and Kill Zombies 初心者ガイド",
+          "description": "開発者が示す基本ループから始めましょう。車を組み立て、ゾンビとの戦闘に備えて武装し、稼いだ Cash をアップグレードに回します。",
+          "href": "/guide/build-and-kill-zombies-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "リロールを使う前に種族ルートを決める"
+              "detail": "車を組み立てる。"
             },
             {
               "label": "2",
-              "detail": "オープニングパスをクリアして操作を覚える"
+              "detail": "車両に武器と防御パーツを装備する。"
             },
             {
               "label": "3",
-              "detail": "ショップが解放されたらコードを引き換える"
+              "detail": "ゾンビの群れを走り抜けて Cash を稼ぐ。"
             },
             {
               "label": "4",
-              "detail": "サブコンテンツよりストーリークエストを優先"
-            },
-            {
-              "label": "5",
-              "detail": "ミッションシステムが解放されたらすぐに始める"
-            },
-            {
-              "label": "6",
-              "detail": "初期ポイントは1つのダメージプランに集中させる"
+              "detail": "稼いだ Cash で車両をアップグレードする。"
             }
           ]
         },
         {
           "order": 3,
-          "name": "VV Ultimatum 公式リンク",
-          "description": "ゲームページ、コミュニティチャンネル、公式動画フィードなど、ブックマークすべき公式リンク先。",
-          "href": "/codes",
+          "name": "Build and Kill Zombies 車両ビルドガイド",
+          "description": "燃料、車両の破壊、追加重量が走行に影響します。",
+          "href": "/guide/build-and-kill-zombies-building-tutorial",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🎮",
-              "detail": "Roblox で VV: ULTIMATUM をプレイ"
+              "label": "Fuel",
+              "detail": "燃料が尽きると走行は終了します。"
             },
             {
-              "label": "💬",
-              "detail": "公式 Discord サーバー"
+              "label": "Vehicle destruction",
+              "detail": "車両が破壊された場合も走行は終了します。"
             },
             {
-              "label": "📺",
-              "detail": "公式 YouTube チャンネル"
-            },
-            {
-              "label": "🐦",
-              "detail": "X の VV Ultimatum"
-            },
-            {
-              "label": "🎵",
-              "detail": "TikTok の VV Ultimatum"
-            },
-            {
-              "label": "👥",
-              "detail": "Roblox コミュニティグループ"
+              "label": "Added weight",
+              "detail": "武器や追加の燃料タンクは重量を増やすため、それを補うアップグレードが必要です。"
             }
           ]
         },
         {
           "order": 4,
-          "name": "VV Ultimatum クラン Tier List",
-          "description": "クランリロールは種族ルートを決定づける重要な資源。ベストキープは所属する種族によって異なります。",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies 武器",
+          "description": "記録のある武器を、根拠のないランク付けをせずに紹介する部分的な一覧です。",
+          "href": "/equipment/build-and-kill-zombies-best-weapons",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Kurosaki · Shihoin · Cifer — 絶対キープ"
+              "label": "Crossbow",
+              "detail": "以前の PAINTEVERYWHERE 報酬。このコードは期限切れと報告されています。",
+              "badge": "過去の報酬"
             },
             {
-              "label": "A",
-              "detail": "Eisenhauer · Ishida · Kamamura · Aaroniero — ビルドに合えばキープ"
-            },
-            {
-              "label": "B",
-              "detail": "Parnkgjas · Hitsugaya · Antenor — レベリングには十分"
-            },
-            {
-              "label": "C",
-              "detail": "Schulte · Madarame · Calius — 余裕があればリロール"
+              "label": "Mounted Gun",
+              "detail": "以前の PAINTEVERYWHERE 報酬。このコードは期限切れと報告されています。",
+              "badge": "過去の報酬"
             }
           ]
         },
         {
           "order": 5,
-          "name": "VV Ultimatum スキルツリー Tier List",
-          "description": "ビルドは関連のないルートにポイントを分散させるより、明確な戦闘コアを選ぶ方が強くなります。",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies パーツ",
+          "description": "完全な一覧ではなく、名前が確認できたパーツを記録した部分的な一覧です。",
+          "href": "/equipment/build-and-kill-zombies-best-blocks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "白打（近接コンボ）· 瞬歩（機動力コア）"
+              "label": "Small Engine",
+              "detail": "COMMUNITY の報酬に含まれるパーツ。"
             },
             {
-              "label": "A",
-              "detail": "滅却師（弓圧）· 力（重撃）· 死神（鬼道制御）"
+              "label": "Small Tank",
+              "detail": "COMMUNITY の報酬に含まれるパーツ。"
             },
             {
-              "label": "B",
-              "detail": "虚 / アランカル（虚閃バースト）"
-            },
-            {
-              "label": "Utility",
-              "detail": "感知（ターゲット読み）· その他（汎用戦闘ツール）"
+              "label": "Passenger Seats",
+              "detail": "MOREFRIENDS の報酬に含まれるパーツ。"
             }
           ]
         },
         {
           "order": 6,
-          "name": "VV Ultimatum 武器 Tier List",
-          "description": "武器の選択は種族に紐付いています。滅却師は最も選択肢が多く、死神は斬魄刀の成長に注力します。",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies Cash とアップグレード",
+          "description": "Cash は車両アップグレードのループを支える通貨です。",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "剣 — バランス型オールラウンダー、滅却師の最安全スターター"
+              "label": "Gameplay earnings",
+              "detail": "ゲームプレイで Cash を稼ぎ、車両に再投資します。"
             },
             {
-              "label": "A",
-              "detail": "槍（長リーチ）· ロングソード（安全な間合い）"
-            },
-            {
-              "label": "B",
-              "detail": "大剣 · ハンマー · メイス — 重火力またはニッチ"
-            },
-            {
-              "label": "C",
-              "detail": "ライフル · レイピア — 使えるが上位互換あり"
+              "label": "Part and weapon purchases",
+              "detail": "Cash はパーツと武器のロールに使います。"
             }
           ]
         },
         {
           "order": 7,
-          "name": "VV Ultimatum 虚 進行ガイド",
-          "description": "虚の進行は忍耐が報われます。面具除去を急ぐと、最終ビルドが弱体化する可能性があります。",
-          "href": "/guide/VV-Ultimatum-bleach",
-          "displayType": "step-by-step",
+          "name": "Build and Kill Zombies イベントトークン",
+          "description": "記録されたプロモーション通貨から、現在開催中のイベントを判断することはできません。",
+          "href": "/progression/build-and-kill-zombies-how-to-get-tokens-fast",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "虚のタイプを選択（ゴリラ・トカゲ・カメ・ムカデ）"
+              "label": "Lightning Tokens",
+              "detail": "ZEUS で手に入る報酬通貨。"
             },
             {
-              "label": "2",
-              "detail": "虚を捕食し、適合する特性を収集"
-            },
-            {
-              "label": "3",
-              "detail": "基礎虚 → メノス → アジューカスへ進化"
-            },
-            {
-              "label": "4",
-              "detail": "ヴァストローデを目指して4特性スロットを解放"
-            },
-            {
-              "label": "5",
-              "detail": "面具を除去 → アランカルまたはヴァストカーへ"
-            },
-            {
-              "label": "6",
-              "detail": "瞑想し、レスレクシオン戦に勝利"
+              "label": "Hacker Tokens",
+              "detail": "期限切れのプロモーション報酬に記録されている通貨。",
+              "badge": "過去のプロモーション"
             }
           ]
         },
         {
           "order": 8,
-          "name": "VV Ultimatum 死神 進行ガイド",
-          "description": "死神ルートは安定したクエスト進行、ソウルポーターミッション、瞑想タイミング、そして始解戦を中心に構成されています。",
-          "href": "/races/vv-ultimatum-shinigami-guide",
-          "displayType": "step-by-step",
+          "name": "Build and Kill Zombies 公式ゲームとコミュニティ",
+          "description": "公式エクスペリエンスと、そこからリンクされた制作者コミュニティで正しいゲームを確認しましょう。",
+          "href": "/community/build-and-kill-zombies-how-to-join-group",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "メインストーリークエストで進行ループを解放"
+              "label": "Official experience",
+              "detail": "Roblox のエクスペリエンス名は Build and Kill Zombies で、制作者は Zombie Car Crusher、プレイス ID は 105011592530400 です。",
+              "badge": "公式"
             },
             {
-              "label": "2",
-              "detail": "尸魂界を解放し、ソウルポーターを購入"
-            },
-            {
-              "label": "3",
-              "detail": "Lv25に到達し、瞑想を開始"
-            },
-            {
-              "label": "4",
-              "detail": "霊の囁きに応答して始解EXPを獲得"
-            },
-            {
-              "label": "5",
-              "detail": "内世界で鈴のパズルを解く"
-            },
-            {
-              "label": "6",
-              "detail": "始解NPCと戦い、始解武器を解放"
+              "label": "Creator community",
+              "detail": "Zombie Car Crusher は、公式エクスペリエンスの制作者表示からリンクされている Roblox コミュニティです。",
+              "badge": "公式"
             }
           ]
         }
@@ -404,49 +338,38 @@
     },
     "faq": {
       "title": "よくある質問",
-      "description": "VV: ULTIMATUM に関するよくある質問への簡潔な回答。",
+      "description": "Build and Kill Zombies に関するよくある質問への簡単な回答です。",
       "items": [
         {
-          "question": "VV: ULTIMATUM とは何ですか？",
-          "answer": "VV: ULTIMATUM は Bleach アニメをベースにした Roblox の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
+          "question": "Build and Kill Zombies とはどんなゲームですか？",
+          "answer": "Build and Kill Zombies は、Zombie Car Crusher が Roblox で公開している車両ビルド型サバイバルゲームです。車を組み立て、武器と防御パーツを装備し、ゾンビの群れへ突っ込み、稼いだ Cash をアップグレードに使います。"
         },
         {
-          "question": "初心者はどの種族を選ぶべき？",
-          "answer": "死神は最も分かりやすい初心者向け種族です。虚と滅却師はより専門的な進行ルートを提供します。各能力を比較してから決定しましょう。"
+          "question": "Build and Kill Zombies のコードはどうやって入力しますか？",
+          "answer": "Build and Kill Zombies のチュートリアルを終えたら、画面左の SHOP を開き、EXCLUSIVE SHOP に進み、下にあるコード入力欄に COMMUNITY や CashDrop などのコードを入力して REDEEM を押します。"
         },
         {
-          "question": "現在のレベル上限は？",
-          "answer": "現在のレベル上限は100で、スキルツリーや種族進行システム全体で130以上のスキルが利用可能です。"
+          "question": "Build and Kill Zombies の走行が終わるのはなぜですか？",
+          "answer": "Build and Kill Zombies の走行は、車両の燃料が尽きるか車両が破壊されると終了します。武器や追加の燃料タンクは重量を増やすため、火力・燃料容量・アップグレードのバランスを取って、より遠くを目指しましょう。"
         },
         {
-          "question": "有効なコードはどこで確認できますか？",
-          "answer": "コードページで有効なコード、報酬、期限情報、引き換え手順を確認できます。"
+          "question": "Build and Kill Zombies の1サーバーには何人まで参加できますか？",
+          "answer": "Build and Kill Zombies の各サーバーには最大5人まで参加できます。これはサーバーの上限人数で、1台の車両の座席数ではありません。"
         },
         {
-          "question": "ボスガイドは更新されていますか？",
-          "answer": "ボスページには出現情報、攻撃パターン、攻略法、ドロップテーブル、進行の次ステップが整理されています。"
+          "question": "この Build and Kill Zombies Wiki は公式ですか？",
+          "answer": "いいえ。Build and Kill Zombies Wiki は独立したファンメイドの攻略サイトで、Zombie Car Crusher および Roblox とは無関係です。Build and Kill Zombies は公式の Roblox ページからプレイしてください。"
         }
       ]
     },
     "finalCta": {
-      "title": "VV: ULTIMATUM をマスターする準備はできましたか？",
-      "description": "Fort Adams での最初の一歩からエンドゲームのボス戦まで、コミュニティ Wiki が無料の最新ガイドでサポートします。",
+      "title": "Build and Kill Zombies をマスターする準備はできましたか？",
+      "description": "ゾンビを蹴散らす最初の車を作り、次のアップグレードを計画して、より長い走行を目指しましょう。まずは初心者ガイドから。",
       "primary": "初心者ガイドを読む",
       "secondary": "Roblox でプレイ"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "ボス — 完全攻略ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の全ボス攻略ガイド。チュートリアルのGelumからエンドゲームコンテンツまで、攻略・ドロップ・リスポーン情報。"
-    },
-    "overviewTitle": "ボス一覧",
-    "overviewDescription": "VV: ULTIMATUM に登場する全ボスの攻略ガイド。チュートリアルのGelumからエンドゲームのGelid Dweller、Gauntletチャレンジまで。",
-    "guidesTitle": "ボス攻略ガイド",
-    "readMore": "続きを読む",
-    "new": "New",
-    "popular": "人気"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki ナビゲーション",
     "activeCodes": "有効なコード",
@@ -466,21 +389,20 @@
     "noGuidesAvailable": "ガイドはまだありません。お楽しみに！"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki は、新規プレイヤーからベテランまで、進行ルート・種族・ボス・ビルドなど幅広いゲーム知識を網羅したファン制作の攻略サイトです。",
+    "aboutTitle": "Build and Kill Zombies Wiki",
+    "about": "Build and Kill Zombies Wiki は独立したファンメイドの攻略サイトです。初心者向けのコツ、車両ビルド、アップグレード、コード情報を紹介しています。このサイトは Zombie Car Crusher および Roblox とは無関係です。",
     "quickLinks": "クイックリンク",
     "guides": "ガイド",
     "legal": "法務",
-    "copyright": "© 2026 VV: ULTIMATUM Wiki. Midnight Continent および Roblox とは無関係です。",
-    "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
-    "playGame": "VV: ULTIMATUM をプレイ",
-    "officialDiscord": "公式 Discord",
-    "officialYoutube": "公式 YouTube",
-    "vvBuilder": "VV Builder（スキルプランナー）",
+    "copyright": "© 2026 Build and Kill Zombies Wiki. Zombie Car Crusher および Roblox とは無関係です。",
+    "description": "Roblox で車両を組み立て、武装し、強化して、ゾンビだらけの走行を生き延びよう。",
+    "gameTitle": "Build and Kill Zombies",
+    "playGame": "Roblox で Build and Kill Zombies をプレイ",
+    "officialCommunity": "Zombie Car Crusher Roblox コミュニティ",
     "beginnerGuide": "初心者ガイド",
-    "raceGuides": "種族ガイド",
-    "bossGuides": "ボスガイド",
-    "buildGuide": "ビルドガイド",
+    "codesGuide": "コード",
+    "buildGuide": "車両ビルド",
+    "equipmentGuide": "武器とパーツ",
     "privacyPolicy": "プライバシーポリシー",
     "termsOfService": "利用規約"
   }

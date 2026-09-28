@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
+    "name": "Build and Kill Zombies Wiki",
+    "shortName": "BKZ Wiki",
     "tagline": "Fan-Made Community Wiki",
-    "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "description": "Your fan-made Build and Kill Zombies wiki for codes, beginner guides, vehicle builds, weapons, and fuel tips. Upgrade your car and push for longer runs.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Zombie Car Crusher or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -21,53 +21,52 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — Codes, Builds, Guides | VV Ultimatum Wiki",
-      "description": "Complete VV: ULTIMATUM wiki with active codes, boss strategies, race guides, build optimization, and progression walkthroughs for Shinigami, Quincy, and Hollow."
+      "title": "Build and Kill Zombies Wiki — Codes, Builds & Weapons",
+      "description": "Explore Build and Kill Zombies codes, car builds, weapons, and upgrades. Learn how to build your first vehicle, earn cash, and survive longer on Roblox."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
+      "title": "Build and Kill Zombies Wiki",
+      "description": "Build a custom vehicle, arm it against zombies, and turn each run into your next upgrade. Experiment with your build and see how far you can survive.",
       "stats": [
-        "Launched Jun 5",
-        "Updated Jun 11",
-        "3 Races",
-        "Lv100 Cap",
-        "130+ Skills"
+        "29,567 Online · Sep 28, 2026",
+        "31.6M+ Visits",
+        "98% Positive Rating",
+        "5-Player Servers"
       ],
       "primaryCta": "Start Beginner Guide",
-      "secondaryCta": "Compare Races",
-      "tertiaryCta": "Check Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Explore Vehicle Builds",
+      "tertiaryCta": "Check Codes",
+      "videoLabel": "Gameplay Guide Video"
     },
     "updates": {
-      "title": "动态更新",
+      "title": "Latest Updates",
       "browse": "Browse All Guides",
       "viewAll": "View All"
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your VV Ultimatum Journey",
+      "title": "Your Build and Kill Zombies Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with the essentials: assemble your first car, begin a run, and understand the build-fight-upgrade loop."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Cash & Upgrades",
+          "description": "Learn how cash fits into vehicle progression and plan which upgrades to work toward next."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Vehicle Builds",
+          "description": "Explore how weapons and defensive parts fit into your car, then refine your setup for zombie-filled runs."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in VV Ultimatum."
+          "title": "Fuel & Weight",
+          "description": "Understand why adding more equipment changes your vehicle's weight, and plan fuel upgrades for longer journeys."
         }
       ]
     },
@@ -75,78 +74,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Codes",
+        "Vehicle Builds",
+        "Weapons & Parts",
+        "Cash & Upgrades"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Build your first car, arm it against zombies, and learn the build-fight-upgrade loop.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "COMMUNITY and CashDrop rewards plus the SHOP → EXCLUSIVE SHOP redeem steps.",
+          "href": "/codes/build-and-kill-zombies-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Weapons",
+          "description": "Documented weapons and how added weight affects your vehicle build.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Beginner Car Build",
+          "description": "Starter parts and a first vehicle layout for early zombie runs.",
+          "href": "/builds/build-and-kill-zombies-beginner-car"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Travel Farther",
+          "description": "Balance fuel, weight, and upgrades to push your distance.",
+          "href": "/progression/build-and-kill-zombies-how-to-travel-farther"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Earn Cash Fast",
+          "description": "Earn Cash through gameplay and reinvest it in your vehicle.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is VV: ULTIMATUM?",
+      "title": "What is Build and Kill Zombies?",
       "paragraphs": [
-        "VV: ULTIMATUM is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Build and Kill Zombies is a vehicle-building survival game on Roblox by Zombie Car Crusher. Construct a car, equip it for combat, and drive into waves of zombies.",
+        "Your runs revolve around earning cash and improving your vehicle. Weapons, fuel capacity, and added weight all affect the choices you make as you prepare to travel farther."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Zombie Car Crusher"
         },
         {
           "label": "Platform",
@@ -154,249 +135,202 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Vehicle Building / Survival"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "31.6M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "848,894"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Peak Concurrent Players",
+          "value": "139,882"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Max Players per Server",
+          "value": "5"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "VV Ultimatum Homepage Modules Navigation",
+      "title": "Explore Build and Kill Zombies Guides",
       "description": "Jump straight to the eight homepage sections and scroll to the module you need.",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum Codes",
-          "description": "Redeem the current VV Ultimatum code before spending rerolls so you can test faction ideas with more room to pivot.",
-          "href": "/codes",
+          "name": "Build and Kill Zombies Codes",
+          "description": "These codes were reported active on September 28, 2026. After completing the tutorial, use SHOP → EXCLUSIVE SHOP → Enter Code → REDEEM.",
+          "href": "/codes/build-and-kill-zombies-codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "day1",
-              "detail": "3× Clan Reroll + Token Booster + Focus Elixir",
-              "badge": "Active"
+              "label": "ZEUS",
+              "detail": "50 Lightning Tokens.",
+              "badge": "Reported Active"
+            },
+            {
+              "label": "IAMPRO",
+              "detail": "5,000 Cash; requires a best distance of 1,000 studs.",
+              "badge": "Reported Active"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "1,000 Cash, 1 Small Engine and 1 Small Tank.",
+              "badge": "Reported Active"
+            },
+            {
+              "label": "CashDrop",
+              "detail": "500 Cash.",
+              "badge": "Reported Active"
+            },
+            {
+              "label": "MOREFRIENDS",
+              "detail": "2 Passenger Seats.",
+              "badge": "Reported Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "VV Ultimatum Beginner Guide",
-          "description": "Use the first hour to lock in a faction route, learn the live controls, and push quests instead of burning resources on random rerolls.",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "name": "Build and Kill Zombies Beginner Guide",
+          "description": "Start with the developer's core loop: build a car, arm it for zombie combat, and reinvest your Cash in upgrades.",
+          "href": "/guide/build-and-kill-zombies-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Choose a faction route before spending rerolls"
+              "detail": "Build your car."
             },
             {
               "label": "2",
-              "detail": "Finish the opening path and learn the live controls"
+              "detail": "Equip the vehicle with weapons and defensive components."
             },
             {
               "label": "3",
-              "detail": "Redeem the launch code once the Shop unlocks"
+              "detail": "Drive through waves of zombies and earn Cash."
             },
             {
               "label": "4",
-              "detail": "Push story quests before side grinding"
-            },
-            {
-              "label": "5",
-              "detail": "Start mission systems as soon as they open"
-            },
-            {
-              "label": "6",
-              "detail": "Spend early points around one damage plan"
+              "detail": "Spend earned Cash on upgrades to your vehicle."
             }
           ]
         },
         {
           "order": 3,
-          "name": "VV Ultimatum Official Links",
-          "description": "Verified destinations worth bookmarking for the real game page, community channels, and official video feed.",
-          "href": "/codes",
+          "name": "Build and Kill Zombies Vehicle Building Guide",
+          "description": "Fuel, vehicle destruction and extra weight affect your runs.",
+          "href": "/guide/build-and-kill-zombies-building-tutorial",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🎮",
-              "detail": "VV: ULTIMATUM on Roblox"
+              "label": "Fuel",
+              "detail": "Running out of fuel ends a run."
             },
             {
-              "label": "💬",
-              "detail": "Official Discord Server"
+              "label": "Vehicle destruction",
+              "detail": "Your run also ends when the vehicle is destroyed."
             },
             {
-              "label": "📺",
-              "detail": "Official YouTube Channel"
-            },
-            {
-              "label": "🐦",
-              "detail": "VV Ultimatum on X"
-            },
-            {
-              "label": "🎵",
-              "detail": "VV Ultimatum on TikTok"
-            },
-            {
-              "label": "👥",
-              "detail": "Roblox Community Group"
+              "label": "Added weight",
+              "detail": "Weapons and additional fuel tanks add weight, requiring compensating upgrades."
             }
           ]
         },
         {
           "order": 4,
-          "name": "VV Ultimatum Clans Tier List",
-          "description": "Treat Clan Rerolls as route-shaping resources. The best keeps depend on faction identity.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies Weapons",
+          "description": "This partial catalog identifies historically documented weapons without assigning unsupported rankings.",
+          "href": "/equipment/build-and-kill-zombies-best-weapons",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Kurosaki · Shihoin · Cifer — Do not reroll"
+              "label": "Crossbow",
+              "detail": "Former PAINTEVERYWHERE reward; that code is reported expired.",
+              "badge": "Historical Reward"
             },
             {
-              "label": "A",
-              "detail": "Eisenhauer · Ishida · Kamamura · Aaroniero — Keep for build"
-            },
-            {
-              "label": "B",
-              "detail": "Parnkgjas · Hitsugaya · Antenor — Good for leveling"
-            },
-            {
-              "label": "C",
-              "detail": "Schulte · Madarame · Calius — Reroll when affordable"
+              "label": "Mounted Gun",
+              "detail": "Former PAINTEVERYWHERE reward; that code is reported expired.",
+              "badge": "Historical Reward"
             }
           ]
         },
         {
           "order": 5,
-          "name": "VV Ultimatum Skill Tree Tier List",
-          "description": "Builds work best when players choose a clear combat core instead of spreading Skill Points across unrelated routes.",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies Parts",
+          "description": "This partial parts catalog records named components rather than claiming a complete inventory.",
+          "href": "/equipment/build-and-kill-zombies-best-blocks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Hakuda (melee combos) · Speed (mobility core)"
+              "label": "Small Engine",
+              "detail": "Named in the COMMUNITY reward."
             },
             {
-              "label": "A",
-              "detail": "Quincy (bow pressure) · Strength (heavy hits) · Shinigami (Kido control)"
+              "label": "Small Tank",
+              "detail": "Named in the COMMUNITY reward."
             },
             {
-              "label": "B",
-              "detail": "Hollow / Arrancar (Cero burst windows)"
-            },
-            {
-              "label": "Utility",
-              "detail": "Sense (target reading) · Misc (universal combat tools)"
+              "label": "Passenger Seats",
+              "detail": "Named in the MOREFRIENDS reward."
             }
           ]
         },
         {
           "order": 6,
-          "name": "VV Ultimatum Weapons Tier List",
-          "description": "Weapon choices are tied to race. Quincy get the clearest starter list, while Shinigami focus on Zanpakuto growth.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Build and Kill Zombies Cash and Upgrades",
+          "description": "Cash supports the vehicle-upgrade loop.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-money-fast",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Sword — Balanced all-rounder, safest Quincy starter"
+              "label": "Gameplay earnings",
+              "detail": "Earn Cash through gameplay and reinvest it in your vehicle."
             },
             {
-              "label": "A",
-              "detail": "Spear (long reach) · Longsword (safe range)"
-            },
-            {
-              "label": "B",
-              "detail": "Greatsword · Hammer · Club — Heavy or niche pressure"
-            },
-            {
-              "label": "C",
-              "detail": "Rifle · Rapier — Playable but outclassed"
+              "label": "Part and weapon purchases",
+              "detail": "Cash pays for rolled Parts and Weapons."
             }
           ]
         },
         {
           "order": 7,
-          "name": "VV Ultimatum Hollow Progression Guide",
-          "description": "Hollow progression rewards patience: rushing mask removal too early can leave the final build weaker than necessary.",
-          "href": "/guide/VV-Ultimatum-bleach",
-          "displayType": "step-by-step",
+          "name": "Build and Kill Zombies Event Tokens",
+          "description": "Documented promotional currencies do not establish which events are currently running.",
+          "href": "/progression/build-and-kill-zombies-how-to-get-tokens-fast",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Choose a Hollow Type (Gorilla, Lizard, Turtle, Centipede)"
+              "label": "Lightning Tokens",
+              "detail": "Reward currency from ZEUS."
             },
             {
-              "label": "2",
-              "detail": "Consume Hollows and collect matching traits"
-            },
-            {
-              "label": "3",
-              "detail": "Advance from base Hollow → Menos → Adjuchas"
-            },
-            {
-              "label": "4",
-              "detail": "Push to Vasto Lorde for the 4-trait ceiling"
-            },
-            {
-              "label": "5",
-              "detail": "Remove mask → Become Arrancar or Vastocar"
-            },
-            {
-              "label": "6",
-              "detail": "Meditate and win the Resurrection Fight"
+              "label": "Hacker Tokens",
+              "detail": "Documented in expired promotional rewards.",
+              "badge": "Historical Promotion"
             }
           ]
         },
         {
           "order": 8,
-          "name": "VV Ultimatum Shinigami Progression Guide",
-          "description": "The Shinigami route is built around steady questing, Soul Pager missions, meditation timing, and the eventual Shikai fight.",
-          "href": "/races/vv-ultimatum-shinigami-guide",
-          "displayType": "step-by-step",
+          "name": "Build and Kill Zombies Official Game and Community",
+          "description": "Use the official experience and its linked creator community to identify the correct game.",
+          "href": "/community/build-and-kill-zombies-how-to-join-group",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Run Main Story Quests to unlock the progression loop"
+              "label": "Official experience",
+              "detail": "The Roblox experience is titled Build and Kill Zombies, identifies Zombie Car Crusher as its creator and uses place ID 105011592530400.",
+              "badge": "Official"
             },
             {
-              "label": "2",
-              "detail": "Unlock Soul Society and buy the Soul Pager"
-            },
-            {
-              "label": "3",
-              "detail": "Reach Level 25 and start meditation"
-            },
-            {
-              "label": "4",
-              "detail": "Respond to Spirit Whispers for Shikai EXP"
-            },
-            {
-              "label": "5",
-              "detail": "Solve the Bells Puzzle in the Inner World"
-            },
-            {
-              "label": "6",
-              "detail": "Fight the Shikai NPC and unlock Shikai weapon"
+              "label": "Creator community",
+              "detail": "Zombie Car Crusher is the Roblox community linked from the official experience's creator attribution.",
+              "badge": "Official"
             }
           ]
         }
@@ -404,50 +338,38 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about VV: ULTIMATUM.",
+      "description": "Quick answers to the most common Build and Kill Zombies questions.",
       "items": [
         {
-          "question": "What is VV: ULTIMATUM?",
-          "answer": "VV: ULTIMATUM is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of three races Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Build and Kill Zombies?",
+          "answer": "Build and Kill Zombies is a vehicle-building survival game on Roblox by Zombie Car Crusher. You build a car, equip it with weapons and defensive parts, drive into waves of zombies, and spend the Cash you earn on upgrades."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Build and Kill Zombies codes?",
+          "answer": "Finish the Build and Kill Zombies tutorial, open SHOP on the left side of the screen, go to EXCLUSIVE SHOP, scroll down to the code box, enter a code such as COMMUNITY or CashDrop, and press REDEEM."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Why does my Build and Kill Zombies run end?",
+          "answer": "A Build and Kill Zombies run ends when your vehicle runs out of fuel or is destroyed. Weapons and extra fuel tanks add weight, so balance firepower, fuel capacity, and upgrades to travel farther."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many players can join a Build and Kill Zombies server?",
+          "answer": "Each Build and Kill Zombies server holds up to 5 players. That is the server limit, not the number of seats on a single vehicle."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is this Build and Kill Zombies Wiki official?",
+          "answer": "No. Build and Kill Zombies Wiki is an independent fan-made guide site and is not affiliated with Zombie Car Crusher or Roblox. Play Build and Kill Zombies through its official Roblox page."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master VV: ULTIMATUM?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Build and Kill Zombies?",
+      "description": "Build your first zombie-crushing car, plan your next upgrade, and aim for a longer run. Start with the beginner guide.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | VV Ultimatum Wiki",
-      "description": "Complete boss guides for VV: ULTIMATUM — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in VV: ULTIMATUM 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in VV: ULTIMATUM serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -466,21 +388,20 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Build and Kill Zombies Wiki",
+    "about": "Build and Kill Zombies Wiki is an independent fan-made guide site. Explore beginner tips, vehicle builds, upgrades, and code information. This site is not affiliated with Zombie Car Crusher or Roblox.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 VV: ULTIMATUM Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play VV: ULTIMATUM",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "© 2026 Build and Kill Zombies Wiki. Not affiliated with Zombie Car Crusher or Roblox.",
+    "description": "Build, arm, and upgrade your vehicle for zombie-filled survival runs on Roblox.",
+    "gameTitle": "Build and Kill Zombies",
+    "playGame": "Play Build and Kill Zombies on Roblox",
+    "officialCommunity": "Zombie Car Crusher Roblox Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "codesGuide": "Codes",
+    "buildGuide": "Vehicle Builds",
+    "equipmentGuide": "Weapons & Parts",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

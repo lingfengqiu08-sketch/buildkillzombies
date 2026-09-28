@@ -5,7 +5,7 @@ on:
 
 jobs:
   deploy:
-    # Never deploy from the public mirror (libin257/vvultimatum_cloudflare);
+    # Never deploy from the upstream template owner's public mirror (owner: libin257);
     # template copies under other owners deploy normally with their own secrets.
     if: github.repository_owner != 'libin257'
     runs-on: ubuntu-latest
@@ -27,7 +27,7 @@ jobs:
         run: npm run build
         env:
           NODE_OPTIONS: --max-old-space-size=4096
-          NEXT_PUBLIC_SITE_URL: https://vvultimatum.sbs
+          NEXT_PUBLIC_SITE_URL: https://www.buildkillzombies.xyz
           NEXT_PUBLIC_GOOGLE_ANALYTICS_ID: ${{ secrets.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID }}
           NEXT_PUBLIC_MICROSOFT_CLARITY_ID: ${{ secrets.NEXT_PUBLIC_MICROSOFT_CLARITY_ID }}
           NEXT_PUBLIC_GOOGLE_ADSENSE_ID: ${{ secrets.NEXT_PUBLIC_GOOGLE_ADSENSE_ID }}

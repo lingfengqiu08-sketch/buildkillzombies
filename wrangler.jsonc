@@ -1,5 +1,5 @@
 {
-  "name": "vvultimatum-sbs",
+  "name": "buildkillzombies-xyz",
   "compatibility_date": "2024-09-01",
   "workers_dev": false,
   "assets": {
@@ -7,8 +7,8 @@
   },
   "routes": [
     {
-      "pattern": "vvultimatum.sbs",
-      "custom_domain": true
+      "pattern": "www.buildkillzombies.xyz/*",
+      "zone_name": "buildkillzombies.xyz"
     }
   ]
 }

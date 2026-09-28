@@ -4,20 +4,23 @@ import { JsonLd, WikiSidebar } from "@/components/site";
 import { getAllContent, getDynamicNavigation, type ContentItem, CONTENT_TYPES } from "@/lib/content";
 import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
+import { SCHEMA_CONTEXT, SITE_NAME, SITE_URL } from "@/lib/site-url";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://vvultimatum.sbs";
+const siteUrl = SITE_URL;
 
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await getMessages({ locale })) as Messages;
+  const image = `${siteUrl}/images/hero.webp`;
   return {
     title: messages.home.meta.title,
     description: messages.home.meta.description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { type: "website", siteName: SITE_NAME, locale, title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [image] },
+    twitter: { card: "summary_large_image", title: messages.home.meta.title, description: messages.home.meta.description, images: [image] },
   };
 }
 
@@ -26,7 +29,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: "VV Ultimatum Wiki", url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": SCHEMA_CONTEXT, "@type": "WebSite", name: SITE_NAME, url: `${siteUrl}/${locale}`, inLanguage: locale, description: messages.home.meta.description, publisher: { "@type": "Organization", name: SITE_NAME, url: siteUrl } };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];
